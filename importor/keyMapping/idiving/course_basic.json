@@ -1,0 +1,22 @@
+{
+    "accounting": {
+        "meal": {
+            "records": [],
+            "totalPrice": 0
+        },
+        "tank": {
+            "records": [],
+            "totalPrice": 0
+        }
+    },
+    "category": "",
+    "classDates": {},
+    "courseId": "_FINISHED",
+    "employees": [],
+    "endDate": "",
+    "finished": "",
+    "members": [],
+    "startDate": "",
+    "transNlive": {},
+    "type": ""
+}

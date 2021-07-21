@@ -1,0 +1,198 @@
+{
+    "openWater": {
+        "classroom": 3,
+        "pool": 2,
+        "openWater": 4,
+        "category": "BASIC_LICENSE",
+        "type": "OWD"
+    },
+    "openWaterWeekday": {
+        "classroom": 2,
+        "pool": 2,
+        "openWater": 4,
+        "category": "BASIC_LICENSE",
+        "type": "OWD-D"
+    },
+    "advOpenWater": {
+        "classroom": 1,
+        "pool": 0,
+        "openWater": 5,
+        "category": "BASIC_LICENSE",
+        "type": "AA"
+    },
+    "nitrox": {
+        "classroom": 1,
+        "pool": 0,
+        "openWater": 0,
+        "category": "PRO_LICENSE",
+        "type": "EAN"
+    },
+    "deepDive": {
+        "classroom": 1,
+        "pool": 0,
+        "openWater": 1,
+        "category": "PRO_LICENSE",
+        "type": "DD"
+    },
+    "nightLimited": {
+        "classroom": 1,
+        "pool": 0,
+        "openWater": 1,
+        "category": "PRO_LICENSE",
+        "type": "NL"
+    },
+    "navigation": {
+        "classroom": 1,
+        "pool": 0,
+        "openWater": 1,
+        "category": "PRO_LICENSE",
+        "type": "NVI"
+    },
+    "reactRight": {
+        "classroom": 1,
+        "pool": 0,
+        "openWater": 0,
+        "category": "PRO_LICENSE",
+        "type": "RR"
+    },
+    "stressRescue": {
+        "classroom": 1,
+        "pool": 0,
+        "openWater": 1,
+        "category": "PRO_LICENSE",
+        "type": "DSR"
+    },
+    "boatDiving": {
+        "classroom": 1,
+        "pool": 0,
+        "openWater": 1,
+        "category": "PRO_LICENSE",
+        "type": "BD"
+    },
+    "searchRecovery": {
+        "classroom": 1,
+        "pool": 0,
+        "openWater": 1,
+        "category": "PRO_LICENSE",
+        "type": "REC"
+    },
+    "perfectBuoyancy": {
+        "classroom": 1,
+        "pool": 0,
+        "openWater": 1,
+        "category": "PRO_LICENSE",
+        "type": "PD"
+    },
+    "ecoDiver": {
+        "classroom": 3,
+        "pool": 0,
+        "openWater": 2,
+        "category": "PRO_LICENSE",
+        "type": "ECO"
+    },
+    "photoVideo": {
+        "classroom": 3,
+        "pool": 0,
+        "openWater": 1,
+        "category": "PRO_LICENSE",
+        "type": "PV"
+    },
+    "drySuitDiving": {
+        "classroom": 1,
+        "pool": 1,
+        "openWater": 1,
+        "category": "ADVPRO_LICENSE",
+        "type": "DRY"
+    },
+    "recreationalSidemount": {
+        "classroom": 1,
+        "pool": 1,
+        "openWater": 1,
+        "category": "ADVPRO_LICENSE",
+        "type": "RSM"
+    },
+    "xrNitrox": {
+        "classroom": 0,
+        "pool": 0,
+        "openWater": 0,
+        "category": "XR_LICENSE",
+        "type": "xrNitrox"
+    },
+    "xrDiving": {
+        "classroom": 0,
+        "pool": 0,
+        "openWater": 0,
+        "category": "XR_LICENSE",
+        "type": "xrDiving"
+    },
+    "xrFundamental": {
+        "classroom": 0,
+        "pool": 0,
+        "openWater": 0,
+        "category": "XR_LICENSE",
+        "type": "xrFundamental"
+    },
+    "ccrDiving": {
+        "classroom": 0,
+        "pool": 0,
+        "openWater": 0,
+        "category": "ADVPRO_LICENSE",
+        "type": "ccrDiving"
+    },
+    "diveControl": {
+        "classroom": 0,
+        "pool": 0,
+        "openWater": 0,
+        "category": "XR_LICENSE",
+        "type": "diveControl"
+    },
+    "instructorTrainer": {
+        "classroom": 0,
+        "pool": 0,
+        "openWater": 0,
+        "category": "XR_LICENSE",
+        "type": "instructorTrainer"
+    },
+    "freeDivingLv1": {
+        "classroom": 0,
+        "pool": 0,
+        "openWater": 0,
+        "category": "FD_LICENSE",
+        "type": "freeDivingLv1"
+    },
+    "freeDivingLv2": {
+        "classroom": 0,
+        "pool": 0,
+        "openWater": 0,
+        "category": "FD_LICENSE",
+        "type": "freeDivingLv2"
+    },
+    "freeDivingLv3": {
+        "classroom": 0,
+        "pool": 0,
+        "openWater": 0,
+        "category": "FD_LICENSE",
+        "type": "freeDivingLv3"
+    },
+    "fdInstructorLv1": {
+        "classroom": 0,
+        "pool": 0,
+        "openWater": 0,
+        "category": "FD_LICENSE",
+        "type": "fdInstructorLv1"
+    },
+    "fdInstructorLv2": {
+        "classroom": 0,
+        "pool": 0,
+        "openWater": 0,
+        "category": "FD_LICENSE",
+        "type": "fdInstructorLv2"
+    },
+    "fdInstructorLv3": {
+        "classroom": 0,
+        "pool": 0,
+        "openWater": 0,
+        "category": "FD_LICENSE",
+        "type": "fdInstructorLv3"
+    }
+}

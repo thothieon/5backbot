@@ -1,0 +1,122 @@
+{
+    "basic": {
+        "joinYear": "",
+        "identity": "",
+        "latestLicense": "",
+        "idNumber": "",
+        "profileImgURL": "",
+        "chineseName": "",
+        "englishName": "",
+        "birthday": "",
+        "mobilePhone": "",
+        "emailAddr": "",
+        "address": "",
+        "zipcode": "",
+        "memberpayDate": "",
+        "memberexpiryDate": "",
+        "isMember": "",
+        "mid": "",
+        "emergencyContactName": "",
+        "emergencyContactPhone": "",
+        "emergencyContactRelation": "",
+        "scubaDiving": false,
+        "freeDiving": false,
+        "divingCenter": "",
+        "nickName": "",
+        "facebookAccount": "",
+        "homePhone": "",
+        "companyName": "",
+        "companyJobTitle": "",
+        "companyPhone": "",
+        "source": "",
+        "remark": "",
+        "nationality": ""
+    },
+    "body": {
+        "bloodType": "",
+        "height": 0,
+        "weight": 0,
+        "leftEye": 0,
+        "rightEye": 0,
+        "contactLens": false,
+        "counterweight": 0,
+        "fdcounterweight": 0
+    },
+    "equipment": {
+        "mask": {
+            "holdType": false,
+            "brand": "",
+            "model": ""
+        },
+        "snorkel": {
+            "holdType": false,
+            "brand": "",
+            "model": ""
+        },
+        "wetsuit": {
+            "holdType": false,
+            "brand": "",
+            "size": ""
+        },
+        "gloves": {
+            "holdType": false,
+            "brand": "",
+            "model": ""
+        },
+        "shoes": {
+            "holdType": false,
+            "brand": "",
+            "model": ""
+        },
+        "fins": {
+            "holdType": false,
+            "brand": "",
+            "model": ""
+        },
+        "bc": {
+            "holdType": false,
+            "brand": "",
+            "model": ""
+        },
+        "regulator": {
+            "holdType": false,
+            "brand": "",
+            "model": ""
+        },
+        "backupRegulator": {
+            "holdType": false,
+            "brand": "",
+            "model": ""
+        },
+        "watch": {
+            "holdType": false,
+            "brand": "",
+            "model": ""
+        },
+        "transport": {
+            "holdType": false,
+            "brand": "",
+            "model": ""
+        },
+        "fdmask": {
+            "holdType": false,
+            "brand": "",
+            "model": ""
+        },
+        "fdweightblet": {
+            "holdType": false,
+            "brand": "",
+            "model": ""
+        },
+        "fdfins": {
+            "holdType": false,
+            "brand": "",
+            "model": ""
+        },
+        "fdwetsuit": {
+            "holdType": false,
+            "brand": "",
+            "model": ""
+        }
+    }
+}
